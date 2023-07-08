@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network Traffic Analyzer", "Network Traffic Analyzer\Network Traffic Analyzer.csproj", "{BBA6B484-A92A-4AA8-A518-1A2A0B71B805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA6B484-A92A-4AA8-A518-1A2A0B71B805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA6B484-A92A-4AA8-A518-1A2A0B71B805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA6B484-A92A-4AA8-A518-1A2A0B71B805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA6B484-A92A-4AA8-A518-1A2A0B71B805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4973B5-9485-4DFE-9A4D-2D91D04DEA54}
+	EndGlobalSection
+EndGlobal
